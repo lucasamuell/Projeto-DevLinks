@@ -7,6 +7,6 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute("src", "./assets/lucas-light.png")
   } else {
-    img.setAttribute("src", "./assets/Design_sem_nome-removebg-preview.png")
+    img.setAttribute("src", "./assets/Lucas-normal.png")
   }
 }
